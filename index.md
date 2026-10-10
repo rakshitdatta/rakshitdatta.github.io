@@ -1,5 +1,2 @@
-# Welcome to My Website
-This is a paragraph of text on my new GitHub Pages site. This is the second line. This is the third line. I am writing all of this to ensure that I see it cleanly on the site that I create. I want to set it up so that I can write down or have my links, lists and posts here to maintain the way I work.
-
-## About Me
-Check out my [About Page](https://docs.google.com/document/d/1vkZSqL2VvWShfdE4ktlz-4xoa50LrqjXZkC71CW8U9Q/edit?usp=drive_link) and [Misc Page](misc.md).
+# Learning Markdown
+Using #, one can create many levels of heading. For Heading 1, use 1 #. For heading 2, use 2 # and so on.
